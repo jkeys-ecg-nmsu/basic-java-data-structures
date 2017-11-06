@@ -2,27 +2,27 @@
 
 A wide range of (basic) data structures, implemented in simple, readable Java.
 
-##Interfaces
+## Interfaces
 
-*StackInterface<T>
-*QueueInterface<T>
+* StackInterface<T>
+* QueueInterface<T>
 
-##Trees
+## Trees
 
-*Binary Search Tree
-*AVL Tree
-*Min heap
+* Binary Search Tree
+* AVL Tree
+* Min heap
 
-##basic/various data structures
+## basic/various data structures
 
-*Linked list
-*Hash table
-*Queue (ArrayQueue, ListQueue)
-*Stack (ArrayListStack, ListStack)
+* Linked list
+* Hash table
+* Queue (ArrayQueue, ListQueue)
+* Stack (ArrayListStack, ListStack)
 
-#Algorithms
+# Algorithms
 
-##various algorithms
+## various algorithms
 
-*Binary search
-*N-Queen problem
+* Binary search
+* N-Queen problem
